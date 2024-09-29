@@ -11,6 +11,10 @@ The Pokémon Search Pokédex App is a web application designed to replicate the 
 - Mobile view with a closable and openable Pokédex.
 - Smooth animations and transitions.
 
+## Live Demo
+
+You can view the live demo of the Pokémon Search Pokédex App here: [Pokédex Pokémon Search](https://pokedex-pokemonsearch.netlify.app/)
+
 ## Installation
 
 1. Clone the repository:
